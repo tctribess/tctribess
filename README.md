@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Meu nome é Taís, sou formada em engenharia de produção, estou finalizando o tecnólogo em ADS e participando do programa de mentoria da BSS. 
+Meu nome é Taís, sou formada em engenharia de produção, estou finalizando o tecnólogo em ADS. 
 
-Abaixo algumas informações sobre minhas experiências e conhecimentos:
+Abaixo algumas informações sobre meus conhecimentos:
 
 #### 📚 Certificações e Conhecimentos
 
