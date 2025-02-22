@@ -15,14 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Meu nome é Taís, sou formada em engenharia de produção, estou finalizando o tecnólogo em ADS. 
+Meu nome é Taís, sou formada em engenharia de produção e tecnóloga em ADS.
 
 Abaixo algumas informações sobre meus conhecimentos:
 
 #### 📚 Certificações e Conhecimentos
 
  🎓 **Certificados:**
-  - Docker - BSS (Dez/2023)
   - Google Cloud Computing Foundations - Google (Set/2022)
   - Responsive Web Design - freeCodeCamp (Out/2021)
   
@@ -33,9 +32,8 @@ Abaixo algumas informações sobre meus conhecimentos:
   - Banco de Dados
   - Programação
 
-#### 💻 Tecnologias
-  - HTML, CSS, JavaScript, SQL
-  - Google Cloud Computing, MySql, Docker
+#### 💻 Ferramentas
+  - Excel, PowerBI, Mysql, GCP
 
 #### 🌐 Idiomas
 
